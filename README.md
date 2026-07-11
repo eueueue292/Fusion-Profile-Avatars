@@ -19,6 +19,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Big%20M
 ### BoJack Horseman
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Bojack%20Horseman/pack.json
 
+### Voltron Legendary Defender
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Voltron%20Legendary%20Defender/pack.json
+
 ---
 
 ## Disney+
