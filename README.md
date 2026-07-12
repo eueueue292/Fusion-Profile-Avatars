@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Crunchy
 ### Attack On Titan
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Attack%20On%20Titan/pack.json
 
+### Jujutsu Kaisen
+https://raw.githubusercontent.com/eueue292/Fusion-Profile-Avatars/main/Jujutsu%20Kaisen/pack.json
+
 ## Prime Video
 
 ### Fallout
