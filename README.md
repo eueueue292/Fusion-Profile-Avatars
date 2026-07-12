@@ -9,6 +9,10 @@ A collection of profile avatar packs for Fusion.
 ### Fallout
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Fallout/pack.json
 
+### The Boys
+
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20Boys/pack.json
+
 ---
 
 ## Netflix
