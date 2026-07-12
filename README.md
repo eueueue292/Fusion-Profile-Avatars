@@ -7,7 +7,7 @@ A collection of profile avatar packs for Fusion.
 ## Crunchyroll
 
 ### Crunchyroll Classic Collection
-https://raw.githubusercontent.com/eueue292/Fusion-Profile-Avatars/main/Crunchyroll%20Classic%20Collection/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Crunchyroll%20Classic%20Collection/pack.json
 
 ## Prime Video
 
