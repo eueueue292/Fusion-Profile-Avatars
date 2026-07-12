@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20B
 ### Invincible
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Invincible/pack.json
 
+### The Classics
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20Classics/pack.json
+
 ---
 
 ## Netflix
