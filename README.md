@@ -2,6 +2,15 @@
 
 A collection of profile avatar packs for Fusion.
 
+---
+
+## Prime Video
+
+### Fallout
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Fallout/pack.json
+
+---
+
 ## Netflix
 
 ### Stranger Things
