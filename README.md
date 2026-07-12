@@ -13,6 +13,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Fallout
 
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20Boys/pack.json
 
+### Invincible
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Invincible/pack.json
+
 ---
 
 ## Netflix
