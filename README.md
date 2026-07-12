@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Attack%
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Jujutsu%20Kaisen/pack.json
 
 ### Chainsaw Man
-https://raw.githubusercontent.com/eueue292/Fusion-Profile-Avatars/main/Chainsaw%20Man/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Chainsaw%20Man/pack.json
 
 ## Prime Video
 
