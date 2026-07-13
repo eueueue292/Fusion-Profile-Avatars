@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Muppets/pack.json
 
 ### NatGeo
-https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/NatGeo/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Disney%2B/NatGeo/pack.json
 
 ### Pixar
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Pixar/pack.json
