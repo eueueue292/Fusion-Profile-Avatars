@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Voltron
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Animation/pack.json
 
 ### Avatar
-https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Avatar/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Disney%2B/Avatar/pack.json
 
 ### Classics
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Classics/pack.json
