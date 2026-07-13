@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Invinci
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20Classics/pack.json
 
 ### The Mighty Nein
-https://raw.githubusercontent.com/eueue292/Fusion-Profile-Avatars/main/The%20Mighty%20Nein/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/The%20Mighty%20Nein/pack.json
 
 ---
 
