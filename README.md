@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Jujutsu
 ### Chainsaw Man
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Chainsaw%20Man/pack.json
 
+### Dragon Ball DAIMA
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Dragon%20Ball%20DAIMA/json.pack
+
 ## Prime Video
 
 ### Fallout
