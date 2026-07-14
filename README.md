@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Star%20Wars/pack.json
 
 ### TV
-https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/TV/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Disney%2B/TV/pack.json
 
 ### X-Men
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/X-Men/pack.json
