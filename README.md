@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Dragon Ball DAIMA
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Dragon%20Ball%20DAIMA/json.pack
 
+### Frieren: Beyond Journey's End
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Frieren%20Beyond%20Journeys%20End/json.pack
+
 ## Prime Video
 
 ### Fallout
