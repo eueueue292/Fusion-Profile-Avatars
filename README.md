@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Frieren%20Beyond%20Journeys%20End/json.pack
 
 ### Death Note
-https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Death%20Note/json.pack
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Death%20Note/pack.json
 
 ### Solo Leveling S1
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Solo%20Leveling%20S1/json.pack
