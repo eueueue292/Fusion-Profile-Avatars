@@ -73,6 +73,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Stranger Things
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Stranger%20Things/pack.json
 
+### Cyberpunk Edgerunners
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Cyberpunk%20Edgerunners/pack.json
+
 ### Squid Game
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Squid%20Game/pack.json
 
