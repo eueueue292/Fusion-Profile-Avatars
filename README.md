@@ -33,6 +33,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Solo Leveling S2
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Solo%20Leveling%20S2/pack.json
 
+Hell's Paradise
+https://github.com/eueueue292/Fusion-Profile-Avatars/blob/main/Hells%20Paradise/pack.json?raw=true
+
 ## Prime Video
 
 ### Fallout
