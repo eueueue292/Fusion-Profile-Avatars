@@ -36,6 +36,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Hell's Paradise
 https://github.com/eueueue292/Fusion-Profile-Avatars/blob/main/Hells%20Paradise/pack.json?raw=true
 
+### One Piece
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/One%20Piece/pack.json
+
 ## Prime Video
 
 ### Fallout
