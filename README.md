@@ -63,6 +63,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/The%20C
 ### The Mighty Nein
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/The%20Mighty%20Nein/pack.json
 
+### Hazbin Hotel
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Hazbin%20Hotel/pack.json
+
 ---
 
 ## Netflix
