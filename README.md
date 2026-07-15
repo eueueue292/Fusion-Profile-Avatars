@@ -40,6 +40,7 @@ https://github.com/eueueue292/Fusion-Profile-Avatars/blob/main/Hells%20Paradise/
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/One%20Piece/pack.json
 
 ### Witch Hat Atelier
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Witch%20Hat%20Atelier/pack.json
 
 ## Prime Video
 
