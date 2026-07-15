@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ## Netflix
 
 ### Stranger Things
-https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Stranger%20Things/pack.json
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Stranger%20Things/pack.json
 
 ### Squid Game
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Squid%20Game/pack.json
