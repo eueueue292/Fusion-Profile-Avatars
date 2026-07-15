@@ -42,6 +42,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Witch Hat Atelier
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Witch%20Hat%20Atelier/pack.json
 
+### Gachiakuta
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Gachiakuta/pack.json
+
 ## Prime Video
 
 ### Fallout
