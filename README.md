@@ -30,6 +30,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Solo Leveling S1
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Solo%20Leveling%20S1/json.pack
 
+### Solo Leveling S2
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Solo%20Leveling%20S2/pack.json
+
 ## Prime Video
 
 ### Fallout
