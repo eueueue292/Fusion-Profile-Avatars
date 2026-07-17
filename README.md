@@ -98,6 +98,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Voltron
 
 ## Disney+
 
+### Snoopy
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Snoopy/pack.json
+
 ### Animation
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Disney%2B/Animation/pack.json
 
