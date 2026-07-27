@@ -103,6 +103,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/main/Voltron
 
 ## Disney+
 
+### King Of The Hill
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/King%20Of%20The%20Hill/pack.json
+
 ### Snoopy
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Snoopy/pack.json
 
