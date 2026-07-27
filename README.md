@@ -6,6 +6,8 @@ A collection of profile avatar packs for Fusion.
 
 ## HBOMAX
 
+### Rick And Morty
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Rick%20And%20Morty/pack.json
 
 ## Crunchyroll
 
