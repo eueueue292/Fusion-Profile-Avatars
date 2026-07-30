@@ -84,6 +84,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 
 ## Netflix
 
+### Avatar: The Last Airbender
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Avatar%3A%20The%20Last%20Airbender/pack.json
+
 ### Stranger Things
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Stranger%20Things/pack.json
 
