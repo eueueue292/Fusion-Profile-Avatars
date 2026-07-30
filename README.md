@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/m
 ### Crunchyroll Classic Collection
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Crunchyroll%20Classic%20Collection/pack.json
 
+### Soul Eater
+https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Soul%20Eater/pack.json
+
 ### Naruto
 https://raw.githubusercontent.com/eueueue292/Fusion-Profile-Avatars/refs/heads/main/Naruto/pack.json
 
